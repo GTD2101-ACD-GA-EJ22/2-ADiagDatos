@@ -6,3 +6,4 @@
 
 pip install pandas
 pip install statsmodels
+pip install matplotlib
